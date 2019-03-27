@@ -15,7 +15,7 @@ Liracoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
  - 288 blocks to retarget difficulty
 
 To download an immediately useable, binary version of
-the Liracoin client sofware, see https://drive.google.com/file/d/1pqr1NMurV3xCXwr8x2tBWwcugsaCT8q5/view?usp=sharing
+the Liracoin client sofware, see https://github.com/liracoinproject/liracoin/blob/master/liracoin-0.8.7.5-win32-setup.exe
 
 To build:
 -Make sure to have downloaded all the needed dependances
