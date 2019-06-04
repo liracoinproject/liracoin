@@ -20,14 +20,14 @@ BEGIN
     BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
-            VALUE "CompanyName",        "Funcoin"
-            VALUE "FileDescription",    "Funcoin-Qt (OSS GUI client for Funcoin)"
+            VALUE "CompanyName",        "Liracoin"
+            VALUE "FileDescription",    "Liracoin-Qt (OSS GUI client for Liracoin)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
-            VALUE "InternalName",       "funcoin-qt"
+            VALUE "InternalName",       "Liracoin-qt"
             VALUE "LegalCopyright",     COPYRIGHT_STR
             VALUE "LegalTrademarks1",   "Distributed under the MIT/X11 software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php."
-            VALUE "OriginalFilename",   "funcoin-qt.exe"
-            VALUE "ProductName",        "Funcoin-Qt"
+            VALUE "OriginalFilename",   "liracoin-qt.exe"
+            VALUE "ProductName",        "Liracoin-Qt"
             VALUE "ProductVersion",     VER_PRODUCTVERSION_STR
         END
     END
